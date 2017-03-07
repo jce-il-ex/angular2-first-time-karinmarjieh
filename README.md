@@ -44,7 +44,7 @@ Create app:
 ```$ ng new my-app```
 
 Enter app directory: 
-```$ cd fb-host-test```
+```$ cd my-app```
 
 Run app: 
 ```$ ng serve```
